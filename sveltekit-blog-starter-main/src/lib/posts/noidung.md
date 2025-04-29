@@ -1,11 +1,15 @@
 ---
-title: "Giới thiệu về ứng dụng phân tántán"
-date: "2025-04-29"
-updated: "2025-04-29"
-
+title: "Ứng dụng phân tán"
+date: "2025-4-29"
+updated: "2025-10-29"
+categories:
+  - "sveltekit"
+  - "markdown"
+  - "Ứng dụng phân tán" 
+coverImage: "/images/jefferson-santos-fCEJGBzAkrU-unsplash.jpg"
 coverWidth: 16
 coverHeight: 9
-excerpt: Check out how heading links work with this starter in this post.
+excerpt: Định nghĩa về ứng dụng phân tán.
 ---
 
 ## Hệ thống phân tán là gì?
