@@ -1,8 +1,7 @@
 ---
-title: "Giới thiệu về Hệ thống phân tán"
+title: "Giới thiệu về ứng dụng phân tántán"
 date: "2025-04-29"
-description: "Tìm hiểu khái niệm, ứng dụng, kiến trúc và ví dụ thực tế của hệ thống phân tán hiện đại."
-updated: "2023-10-26"
+updated: "2025-04-29"
 categories:
   - "sveltekit"
   - "markdown"
