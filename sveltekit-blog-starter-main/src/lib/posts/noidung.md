@@ -2,6 +2,14 @@
 title: "Giới thiệu về Hệ thống phân tán"
 date: "2025-04-29"
 description: "Tìm hiểu khái niệm, ứng dụng, kiến trúc và ví dụ thực tế của hệ thống phân tán hiện đại."
+updated: "2023-10-26"
+categories:
+  - "sveltekit"
+  - "markdown"
+coverImage: "/images/jefferson-santos-fCEJGBzAkrU-unsplash.jpg"
+coverWidth: 16
+coverHeight: 9
+excerpt: Check out how heading links work with this starter in this post.
 ---
 
 ## Hệ thống phân tán là gì?
